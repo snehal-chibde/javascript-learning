@@ -35,7 +35,6 @@ function countBooksByGenre(books) {
 const genreCounts = countBooksByGenre(books);
 console.log('Count of books by genre:', genreCounts);
 
-
 // Find Authors with Most Books: Write a function to identify the author(s) with the most books published. Return an array of objects, each containing an author's name and their total number of books.
 // Below function is to get author name with book count.
 //AuthorX: 2
